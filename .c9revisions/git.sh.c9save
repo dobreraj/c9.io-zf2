@@ -2,3 +2,4 @@
 {"contributors":[],"silentsave":false,"ts":1380292197737,"patch":[[{"diffs":[[1,"git add . \r\ngit commit -m \"update zf 2.2.4\"\r\ngit push origin\r\ngit push zend"]],"start1":0,"start2":0,"length1":0,"length2":75}]],"length":75,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1380292539557,"patch":[[{"diffs":[[0,"-m \""],[-1,"update zf 2.2.4"],[1,"zfc user base rbc"],[0,"\"\r\ng"]],"start1":23,"start2":23,"length1":23,"length2":25}]],"length":77,"saved":false}
 {"ts":1380292647437,"patch":[[{"diffs":[[0,"git add"],[-1," "],[0,". \r\ngit "]],"start1":0,"start2":0,"length1":16,"length2":15}]],"length":76,"saved":false}
+{"ts":1380292754377,"patch":[[{"diffs":[[0,"git add"],[1," "],[0,". \r\ngit "]],"start1":0,"start2":0,"length1":15,"length2":16}]],"length":77,"saved":false}
