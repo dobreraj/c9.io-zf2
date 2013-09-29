@@ -8,3 +8,4 @@
 {"ts":1380445392748,"patch":[[{"diffs":[[0," -m \"mve"],[1,"d user"],[0,"\"\r\ngit p"]],"start1":22,"start2":22,"length1":16,"length2":22}]],"length":69,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1380446499976,"patch":[[{"diffs":[[0,"-m \""],[-1,"mved user"],[1,"a"],[0,"\"\r\ng"]],"start1":23,"start2":23,"length1":17,"length2":9}]],"length":61,"saved":false}
 {"ts":1380446519438,"patch":[[{"diffs":[[0,"mit -m \""],[-1,"a"],[1,"db user"],[0,"\"\r\ngit p"]],"start1":19,"start2":19,"length1":17,"length2":23}]],"length":67,"saved":false}
+{"ts":1380446656485,"patch":[[{"diffs":[[0,"add "],[-1,"-A"],[1,"."],[0,"\r\ngi"]],"start1":4,"start2":4,"length1":10,"length2":9}]],"length":66,"saved":false}
