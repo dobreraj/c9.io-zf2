@@ -1,5 +1,4 @@
 <?php
-/*
 $dbParams = array(
     'database'  => 'dobreraj',
     'username'  => 'dobreraj',
@@ -22,4 +21,4 @@ return array(
             },
         ),
     ),
-);*/
+);
