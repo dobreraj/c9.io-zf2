@@ -30,7 +30,7 @@
 return array (
 		'db' => array (
 				'driver' => 'Pdo',
-				'dsn' => 'mysql:dbname=sql419251;host=sql4.freemysqlhosting.net',
+				'dsn' => 'mysql:dbname=dobreraj;host=dobreraj-db.my.phpcloud.com',
 				'driver_options' => array (
 						PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES \'UTF8\' ' .
 								 ', CHARACTER_SET_DATABASE = \'UTF8\' ' .

@@ -1,4 +1,4 @@
 git add -A
-git commit -m "mved user"
+git commit -m "db user"
 git push origin
 git push zend

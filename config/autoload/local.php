@@ -1,8 +1,8 @@
 <?php
 return array(
     'db' => array(
-        'username' => 'sql419251',
-        'password' => 'fS5%qX5!',
+        'username' => 'dobreraj',
+        'password' => 'maijme',
     ),
 );
 /*return array(
