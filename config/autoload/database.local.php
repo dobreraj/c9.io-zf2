@@ -1,10 +1,10 @@
 <?php
 
 $dbParams = array(
-    'database'  => 'dobreraj',
-    'username'  => 'dobreraj',
-    'password'  => 'maijme',
-    'hostname'  => 'dobreraj-db.my.phpcloud.com',
+    'database'  => 'sql419251',
+    'username'  => 'sql419251',
+    'password'  => 'fS5%qX5!',
+    'hostname'  => 'sql4.freemysqlhosting.net',
 );
 
 return array(
