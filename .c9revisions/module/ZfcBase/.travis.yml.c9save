@@ -1,0 +1,1 @@
+{"ts":1380445131511,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"language: php\n\nphp:\n  - 5.3.3\n  - 5.3\n  - 5.4\n\nenv:\n - ZF2_PATH=./zf2/library\n\nbefore_install:\n - cd test; git clone --depth=1 https://github.com/zendframework/zf2.git\n\nscript:\n - phpunit\n"]],"start1":0,"start2":0,"length1":0,"length2":188}]],"length":188}

@@ -1,4 +1,5 @@
 git add . 
-git commit -m "zfc user base rbc"
+git add -u 
+git commit -m "database"
 git push origin
 git push zend

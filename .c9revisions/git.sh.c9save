@@ -3,3 +3,4 @@
 {"contributors":[],"silentsave":false,"ts":1380292539557,"patch":[[{"diffs":[[0,"-m \""],[-1,"update zf 2.2.4"],[1,"zfc user base rbc"],[0,"\"\r\ng"]],"start1":23,"start2":23,"length1":23,"length2":25}]],"length":77,"saved":false}
 {"ts":1380292647437,"patch":[[{"diffs":[[0,"git add"],[-1," "],[0,". \r\ngit "]],"start1":0,"start2":0,"length1":16,"length2":15}]],"length":76,"saved":false}
 {"ts":1380292754377,"patch":[[{"diffs":[[0,"git add"],[1," "],[0,". \r\ngit "]],"start1":0,"start2":0,"length1":15,"length2":16}]],"length":77,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1380444780183,"patch":[[{"diffs":[[0,"git "],[-1,"commit -m \"zfc user base rbc"],[1,"add -u \r\ngit commit -m \"database"],[0,"\"\r\ng"]],"start1":12,"start2":12,"length1":36,"length2":40}]],"length":81,"saved":false}
