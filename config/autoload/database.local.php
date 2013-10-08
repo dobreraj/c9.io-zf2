@@ -1,6 +1,6 @@
 <?php
 $dbParams = array(
-    'database'  => 'dobreraj',
+    'database'  => 'webCRA',
     'username'  => 'dobreraj',
     'password'  => 'maijme01',
     'hostname'  => 'localhost',
