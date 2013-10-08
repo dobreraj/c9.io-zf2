@@ -2,8 +2,8 @@
 $dbParams = array(
     'database'  => 'dobreraj',
     'username'  => 'dobreraj',
-    'password'  => 'maijme',
-    'hostname'  => 'dobreraj-db.my.phpcloud.com',
+    'password'  => 'maijme01',
+    'hostname'  => 'localhost',
 );
 
 return array(
